@@ -1,0 +1,6 @@
+ 19/jan/2018
+ creating an github account
+ 1st session with programing
+ python being used 
+printiing your name ,addition,substraction,multiplication,divison,modulus of numbp
+printing the output.Analysed errors with multiple exampes.

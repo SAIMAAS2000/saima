@@ -1,0 +1,37 @@
+count=int(input("Enter a dice value"))
+if(count==8):
+            print("you go up")
+else:
+            print("continue playing")
+if(count==11):
+            print("snake bites")
+else:
+            print("continue playing")
+if(count==13):
+            print("climbs up the stairs")
+else:
+            print("continue playing")
+if(count==25):
+            print("comes down")
+else:
+            print("continue playing")
+if(count==38):
+            print(" oops!snake bites")
+else:
+            print("continue playing")
+if(count==40):
+            print(" clmibesstairs")
+else:
+            print("continue playing")
+if(count==52):
+            print(" clmibesstairs")
+else:
+            print("continue playing")
+if(count==65):
+            print("snake bites")
+else:
+            print("continue playing")
+
+
+r=random.randit(1,6)
+print(r)
